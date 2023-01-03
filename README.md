@@ -1,0 +1,2 @@
+# pokedex
+pokedex com vue.
