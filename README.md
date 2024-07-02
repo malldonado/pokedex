@@ -26,9 +26,9 @@ Node.js installed on your local machine.
 
 1. Clone the repo
 
-   ```sh
-   npm install
-```sh```
+```sh
+npm install
+```
 
 2. Install NPM packages
 
@@ -37,8 +37,11 @@ Node.js installed on your local machine.
 ```
 
 3. Start the application
+
 ```sh
 npm start
 ```
+
 ## License
-Distributed under the MIT License. 
+
+Distributed under the MIT License.
