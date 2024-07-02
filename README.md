@@ -33,7 +33,7 @@ npm install
 2. Install NPM packages
 
 ```sh
-   npm install
+npm install
 ```
 
 3. Start the application
