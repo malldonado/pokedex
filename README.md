@@ -28,7 +28,7 @@ Node.js installed on your local machine.
 
    ```sh
    npm install
-```sh````
+```sh```
 
 2. Install NPM packages
 
