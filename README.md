@@ -28,7 +28,7 @@ Node.js installed on your local machine.
 
    ```sh
    git clone https://github.com/malldonado/pokedex.git
-
+``
 2. Install NPM packages
 
 ```sh
